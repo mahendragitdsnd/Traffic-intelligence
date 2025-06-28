@@ -12,21 +12,6 @@ This project is a web-based Traffic Volume Estimation system built using Python,
 ✅ Uses Flask for backend server  
 ✅ Supports integration with React.js frontend (optional)
 
----
-
-## Project Structure
----
-TrafficTelligence/
-├── app.py # Flask application
-├── model.pkl # Trained ML model (Linear Regression)
-├── encoder.pkl # LabelEncoders for categorical features
-├── traffic_volume.csv # Dataset
-├── templates/
-│ ├── index.html # Input form page
-│ └── output.html # Results display page
-└── static/ # Optional static files like CSS, images
----
-
 
 ---
 
