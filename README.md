@@ -1,9 +1,8 @@
-
 # TrafficTelligence - Traffic Volume Estimation with Machine Learning
 
 This project is a web-based Traffic Volume Estimation system built using Python, Flask, and Machine Learning. It predicts estimated traffic volume based on user inputs like weather, date, and time.
 
-
+---
 
 ## Features
 
@@ -13,7 +12,7 @@ This project is a web-based Traffic Volume Estimation system built using Python,
 ✅ Uses Flask for backend server  
 ✅ Supports integration with React.js frontend (optional)
 
-
+---
 
 ## Project Structure
 
@@ -27,6 +26,9 @@ TrafficTelligence/
 │ └── output.html # Results display page
 └── static/ # Optional static files like CSS, images
 
+
+
+---
 
 ## Installation & Setup
 
@@ -106,5 +108,6 @@ NumPy
 
 scikit-learn
 
-#Author
-@mahendragitdsnd
+Author
+TrafficTelligence - Advanced Traffic Volume Estimation
+
