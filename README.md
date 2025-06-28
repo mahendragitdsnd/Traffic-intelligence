@@ -15,7 +15,7 @@ This project is a web-based Traffic Volume Estimation system built using Python,
 ---
 
 ## Project Structure
-
+---
 TrafficTelligence/
 ├── app.py # Flask application
 ├── model.pkl # Trained ML model (Linear Regression)
@@ -25,7 +25,7 @@ TrafficTelligence/
 │ ├── index.html # Input form page
 │ └── output.html # Results display page
 └── static/ # Optional static files like CSS, images
-
+---
 
 
 ---
